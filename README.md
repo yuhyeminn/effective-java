@@ -68,4 +68,4 @@
 - [아이템 27. 비검사 경고를 제거하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-27)
 - [아이템 28. 배열보다는 리스트를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-28)
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-29)
-- [아이템 30. 이왕이면 제네릭 메서드로 만들라](
+- [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-30)
