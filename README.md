@@ -69,3 +69,13 @@
 - [아이템 28. 배열보다는 리스트를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-28)
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-29)
 - [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-30)
+
+- [아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-31)
+- [아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-32)
+- [아이템 33. 타입 안전 이종 컨테이너를 고려하라 ](https://github.com/yuhyeminn/effective-java/wiki/ITEM-33)
+
+#### 6장. 열거 타입과 애너테이션
+
+- [아이템 34. int 상수 대신 열거 타입을 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-34)
+- [아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-35)
+
