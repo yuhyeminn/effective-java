@@ -85,3 +85,11 @@
 - [아이템 40. @Override 애너테이션을 일관되게 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-40)
 - [아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-41)
 
+#### 7장. 람다와 스트림
+
+- [아이템 42. 익명클래스보다는 람다를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-42)
+- [아이템 43. 람다보다는 메서드 참조를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-43)
+- [아이템 44. 표준 함수형 인터페이스를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-44)
+- [아이템 45. 스트림은 주의해서 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-45)
+- [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-46)
+
