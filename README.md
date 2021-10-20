@@ -104,3 +104,17 @@
 - [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-54)
 - [아이템 55. 옵셔널 반환은 신중히 하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-55)
 - [아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-56)
+
+#### 9장. 일반적인 프로그래밍 원칙
+  - [아이템 57. 지역변수의 범위를 최소화하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-57)
+  - [아이템 58. 전통적인 for문보다는 for-each문을 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-58)
+  - [아이템 59. 라이브러리를 익히고 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-59)
+  - [아이템 60. 정확한 답이 필요하다면 float과 double은 피하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-60)
+  - [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-61)
+  - [아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-62)
+  - [아이템 63. 문자열 연결은 느리니 주의하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-63)
+  - [아이템 64. 객체는 인터페이스를 사용해 참조하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-64)
+  - [아이템 65. 리플렉션보다는 인터페이스를 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-65)
+  - [아이템 66. 네이티브 메서드는 신중히 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-66)
+  - [아이템 67. 최적화는 신중히 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-67)
+  - [아이템 68. 일반적으로 통용되는 명명 규칙을 따르라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-68)
