@@ -129,3 +129,9 @@
   - [아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-75)
   - [아이템 76. 가능한 한 실패 원자적으로 만들라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-76)
   - [아이템 77. 예외를 무시하지 말라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-77)
+
+#### 11장. 동시성
+  - [아이템 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-78)
+  - [아이템 79. 과도한 동기화는 피하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-79)
+  - [아이템 80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-80)
+  - [아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라](https://github.com/yuhyeminn/effective-java/wiki/ITEM-81)
